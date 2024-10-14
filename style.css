@@ -1,2 +1,25 @@
+.elso{
+    font-weight: bolder;
+}
 
+.utolso{
+    font-weight: bolder;
+    font-size: xx-large;
+}
+
+.szaggatott{
+    border-top: 1px dashed;
+}
+
+table{
+    background-color: rgb(202, 126, 202);
+    max-width: 100%;
+    border-radius: 8px;
+    margin: auto;
+    
+}
+
+body{
+    background-color: rgb(198, 201, 247);
+}
 
